@@ -1,6 +1,13 @@
+# About me
+
 ## Hi there 👋
 
-<!--
+Random finance bro exploring code 😆
+
+Looking to build side projects with this and learn.
+
+Happy to learn from anyone here!
+<!--      
 **ryanjrt/ryanjrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
